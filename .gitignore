@@ -70,10 +70,10 @@ patient_data/
 raw_data/
 data/
 local_workspace/
+ppt templates/
 
 # Local analysis outputs
 
-outputs/
 outcomes/
 *.pptx
 *.html
@@ -96,3 +96,12 @@ outcomes/
 !supplementary_data/
 !supplementary_data/*.xlsx
 !outputs/.gitkeep
+
+# Local/private helper scripts
+my_functional_scripts/
+R_customized_global_functions/
+
+# Local/private backup
+backup/
+
+
